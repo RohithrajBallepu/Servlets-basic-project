@@ -28,3 +28,4 @@ Build the project using Maven:
 mvn clean install
 
 Deploy the WAR to your servlet container (Tomcat/Eclipse/Jetty)
+ECHO is on.
